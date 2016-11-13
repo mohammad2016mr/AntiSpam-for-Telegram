@@ -1,9 +1,9 @@
 <?php
 
 //APIKEY
-$apiKey = "INSERISCI QUI L'API KEY FORNITA DA @botfather";
+$apiKey = "272210515:AAGkQp54p6aQzbI3qNNJ6abC0wXhMouaGIo";
 //TUOID
-$inserisciIlTuoId = "INSERISCI QUI IL TUO ID";
+$inserisciIlTuoId = "90516804,172561830";
 //puoi trovare il tuo id mandando un messaggio
 //a @userinfobot
 
